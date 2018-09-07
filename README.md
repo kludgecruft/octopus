@@ -1,7 +1,7 @@
 # octopus
-### Remake of the classic LCD game
+### A remake of the classic LCD game
 
-A test program to test the functionality of the Stooge 2D game engine.
+This is a test program to test the functionality of the Stooge 2D game engine.
 
 C++, win32, Direct2D, DirectWrite, XAudio
 
